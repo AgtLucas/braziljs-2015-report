@@ -11,6 +11,9 @@
 #### Douglas Campos - Use lowlevel
 #### Felipe Ribeiro - JavaScript @ Spotify
 #### Damian Schenkelman - Getting over Moore's Law: Parallelization using JavaScript in the browser
+
+* Demos: https://github.com/dschenkelman/parallelism-js-talk/tree/braziljs
+
 #### Reinaldo Ferraz - A saga dos 12 tópicos de acessibilidade
 #### Tania Gonzalez - The Javascript Toolkit
 #### Raphael Amorim - 500 days of open source
