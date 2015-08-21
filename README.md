@@ -15,6 +15,9 @@
 #### Tania Gonzalez - The Javascript Toolkit
 #### Raphael Amorim - 500 days of open source
 #### Nicolas Bevacqua - High Performance in the Critical Rendering Path
+
+* Slides: https://speakerdeck.com/bevacqua/high-performance-in-the-critical-path
+
 #### Nick Desaulniers - Improving game performance on the Web: WASM, SharedArrayBuffer, SIMD, WebGL2
 
 * Slides: http://nickdesaulniers.github.io/BrazilJS2015/slides/index.html#/
