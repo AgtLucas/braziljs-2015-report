@@ -5,6 +5,9 @@
 ## 1st day
 
 #### Christian Heilmann - ES6 - Baseline para a web moderna?
+
+* Slides: http://www.slideshare.net/cheilmann/can-we-make-es6-the-baseline-of-the-modern-web-braziljs-2105
+
 #### Douglas Campos - Use lowlevel
 #### Felipe Ribeiro - JavaScript @ Spotify
 #### Damian Schenkelman - Getting over Moore's Law: Parallelization using JavaScript in the browser
