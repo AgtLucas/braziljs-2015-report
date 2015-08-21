@@ -16,6 +16,9 @@
 #### Raphael Amorim - 500 days of open source
 #### Nicolas Bevacqua - High Performance in the Critical Rendering Path
 #### Nick Desaulniers - Improving game performance on the Web: WASM, SharedArrayBuffer, SIMD, WebGL2
+
+* Slides: http://nickdesaulniers.github.io/BrazilJS2015/slides/index.html#/
+
 #### David Bryant - Keynote
 
 ## 2nd day
