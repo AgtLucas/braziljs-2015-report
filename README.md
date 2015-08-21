@@ -28,3 +28,8 @@
 #### Jonathan Sampson ECMAScript 6: O que Há de Novo, O que Mudou, O que tem de Bacana ou de Estranho!
 #### Julián Duque - JavaScript Robotics: A NodeBots show
 #### Brendan Eich & Andreas Gal - Keynote
+
+
+---
+
+License: [IDK](http://idk.lucas.ninja)
