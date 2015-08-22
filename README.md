@@ -34,6 +34,8 @@
 ## 2nd day
 
 #### James Halliday - what you can build with a log
+* Slides/Demos: https://github.com/substack/braziljs-2015-talk
+
 #### Jacob Page - Writing elegant UI code with FRP
 #### Ju Gonçalves - Reduce: seu novo melhor amigo
 #### Diogo Lucas - JS <3 @AGCO
