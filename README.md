@@ -40,6 +40,9 @@
 #### Ju Gonçalves - Reduce: seu novo melhor amigo
 #### Diogo Lucas - JS <3 @AGCO
 #### Laurie Voss - Keynote
+
+Slides: http://slides.com/seldo/npm-past-present-and-future?token=xYgn8LKj#/
+
 #### Sebastian McKenzie - Consolidation of tools
 #### Ryan Salva A História Verdadeira por trás do Desempenho JavaScript em mobile...Porque é Ciência!!!!
 #### Fernando Miçalli - Placar UOL: Copa do Mundo e Eleições 2014 ao vivo com Node.js e WebSockets
