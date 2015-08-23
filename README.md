@@ -34,6 +34,7 @@
 ## 2nd day
 
 #### James Halliday - what you can build with a log
+
 * Slides/Demos: https://github.com/substack/braziljs-2015-talk
 
 #### Jacob Page - Writing elegant UI code with FRP
@@ -41,7 +42,7 @@
 #### Diogo Lucas - JS <3 @AGCO
 #### Laurie Voss - Keynote
 
-Slides: http://slides.com/seldo/npm-past-present-and-future?token=xYgn8LKj#/
+* Slides: http://slides.com/seldo/npm-past-present-and-future?token=xYgn8LKj#/
 
 #### Sebastian McKenzie - Consolidation of tools
 #### Ryan Salva A História Verdadeira por trás do Desempenho JavaScript em mobile...Porque é Ciência!!!!
