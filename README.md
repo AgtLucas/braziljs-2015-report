@@ -21,6 +21,8 @@
 
 #### Tania Gonzalez - The Javascript Toolkit
 #### Raphael Amorim - 500 days of open source
+* Slides: https://speakerdeck.com/raphamorim/500-days-of-open-source
+
 #### Nicolas Bevacqua - High Performance in the Critical Rendering Path
 
 * Slides: https://speakerdeck.com/bevacqua/high-performance-in-the-critical-path
@@ -38,6 +40,9 @@
 * Slides/Demos: https://github.com/substack/braziljs-2015-talk
 
 #### Jacob Page - Writing elegant UI code with FRP
+* Slides: http://slides.com/jacobpage/frp#/
+* Demo: https://github.com/DullReferenceException/braziljs-frp-demo
+
 #### Ju Gonçalves - Reduce: seu novo melhor amigo
 #### Diogo Lucas - JS <3 @AGCO
 #### Laurie Voss - Keynote
