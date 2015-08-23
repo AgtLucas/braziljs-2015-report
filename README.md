@@ -56,6 +56,8 @@
 #### Julián Duque - JavaScript Robotics: A NodeBots show
 #### Brendan Eich & Andreas Gal - Keynote
 
+* Slides: http://brendaneich.github.io/BrazilJS-2015/
+
 
 ---
 
