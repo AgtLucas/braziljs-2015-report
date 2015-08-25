@@ -54,6 +54,9 @@
 #### Fernando Miçalli - Placar UOL: Copa do Mundo e Eleições 2014 ao vivo com Node.js e WebSockets
 #### Jonathan Sampson ECMAScript 6: O que Há de Novo, O que Mudou, O que tem de Bacana ou de Estranho!
 #### Julián Duque - JavaScript Robotics: A NodeBots show
+
+* Slides: http://www.slideshare.net/JulinDavidDuque/javascript-robotics-a-nodebots-show
+
 #### Brendan Eich - Keynote
 
 * Slides: http://brendaneich.github.io/BrazilJS-2015/
