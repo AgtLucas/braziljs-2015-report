@@ -66,4 +66,4 @@
 
 ---
 
-License: [IDK](http://idk.lucas.ninja)
+License: [IDC](http://idk.lucas.ninja)
