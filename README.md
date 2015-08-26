@@ -52,6 +52,8 @@
 #### Sebastian McKenzie - Consolidation of tools
 #### ~~Ryan Salva A História Verdadeira por trás do Desempenho JavaScript em mobile...Porque é Ciência!!!!~~
 #### Fernando Miçalli - Placar UOL: Copa do Mundo e Eleições 2014 ao vivo com Node.js e WebSockets
+* Slides: https://speakerdeck.com/fermads/copa-do-mundo-e-eleicoes-ao-vivo-com-node-dot-js-e-websockets
+
 #### Jonathan Sampson ECMAScript 6: O que Há de Novo, O que Mudou, O que tem de Bacana ou de Estranho!
 #### Julián Duque - JavaScript Robotics: A NodeBots show
 
