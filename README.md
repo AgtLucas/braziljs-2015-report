@@ -45,6 +45,9 @@
 
 #### Ju Gonçalves - Reduce: seu novo melhor amigo
 #### Diogo Lucas - JS <3 @AGCO
+
+* Slides: https://github.com/dclucas/BrazilJS2015/tree/develop
+
 #### Laurie Voss - Keynote
 
 * Slides: http://slides.com/seldo/npm-past-present-and-future?token=xYgn8LKj#/
