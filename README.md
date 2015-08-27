@@ -20,6 +20,8 @@
 * Slides: http://pt.slideshare.net/reinaldoferraz/a-saga-dos-12-tpicos-de-acessibilidade-na-web
 
 #### Tania Gonzalez - The Javascript Toolkit
+* Slides: http://www.slideshare.net/taniadgv/javascript-toolkit-52014677
+
 #### Raphael Amorim - 500 days of open source
 * Slides: https://speakerdeck.com/raphamorim/500-days-of-open-source
 
