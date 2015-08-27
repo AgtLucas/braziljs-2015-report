@@ -1,3 +1,5 @@
+[![forthebadge](http://forthebadge.com/images/badges/as-seen-on-tv.svg)](http://forthebadge.com)
+
 # BrazilJS 2015 Report
 
 ## Workshops
