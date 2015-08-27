@@ -1,7 +1,5 @@
 # BrazilJS 2015 Report
 
----
-
 ## Workshops
 
 #### Andrzej Mazur – Build HTML5 Games with Pasher
