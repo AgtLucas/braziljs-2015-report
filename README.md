@@ -2,6 +2,11 @@
 
 ---
 
+## Workshops
+
+#### Andrzej Mazur – Build HTML5 Games with Pasher
+* Slides and Demos: https://end3r.github.io/Gamedev-Phaser-Content-Kit/
+
 ## 1st day
 
 #### Christian Heilmann - ES6 - Baseline para a web moderna?
